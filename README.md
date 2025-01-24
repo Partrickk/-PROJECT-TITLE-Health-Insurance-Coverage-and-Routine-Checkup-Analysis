@@ -12,104 +12,116 @@ Routine health checkups and health insurance coverage are critical indicators of
 
 # 2.	Executive Summary
 ________________________________________
-Key Findings
-Insurance Coverage:
+## Key Findings
+### Insurance Coverage:
 •	58.8% of individuals are insured; 41.2% are uninsured.
 •	Coverage rates increase significantly with employment and income levels.
-Routine Checkups:
+### Routine Checkups:
 •	Only 29.1% of individuals undergo routine checkups.
 •	Higher participation is observed among older adults (60+ years: 63.3%) and higher-income groups (52.6%).
-Checkup Intervals:
+### Checkup Intervals:
 •	94.0% do not engage in routine checkups.
 •	3.9% report annual checkups, highlighting limited engagement in preventive healthcare.
-Implications: The findings emphasize the need for targeted interventions to enhance both insurance coverage and routine checkup participation. Expanding access and increasing awareness will directly impact public health outcomes.
+#### Implications:
+	The findings emphasize the need for targeted interventions to enhance both insurance coverage and routine checkup participation. Expanding access and increasing awareness will directly impact public health outcomes.
 Figure 1
 Health Insurance coverage and toutine checkups dashboard
  ![image](https://github.com/user-attachments/assets/9f8d705c-3e10-4e4e-ab2e-00054654cf08)
 
 
-3.	Data Structure Overview
+# 3.	Data Structure Overview
 ________________________________________
 The dataset captures demographic, socioeconomic, and healthcare-related information, including:
-•	Demographics: Age, gender, marital status.
-•	Socioeconomic Factors: Employment status, income levels.
-•	Healthcare Utilization: Insurance coverage, routine checkup intervals.
-Key Relationships:
-•	Demographics and income influence insurance and routine checkup patterns.
-•	Routine checkup intervals reflect preventive healthcare engagement.
+
+	•	Demographics: Age, gender, marital status.
+	•	Socioeconomic Factors: Employment status, income levels.
+	•	Healthcare Utilization: Insurance coverage, routine checkup intervals.
+## Key Relationships:
+	•	Demographics and income influence insurance and routine checkup patterns.
+	•	Routine checkup intervals reflect preventive healthcare engagement.
 Healthcare Data Relationships
 	![image](https://github.com/user-attachments/assets/248a203c-2fc0-4217-a849-616e1b79012e)
 			 
 
-4.	Key Insights
+# 4.	Key Insights
 ________________________________________
-Insight 1: Health Insurance Coverage
-•	Data: 58.8% insured; 41.2% uninsured.
-•	Metric: Insurance coverage correlates with income and employment status.
-•	Observation: Low-income and unemployed groups have significantly lower coverage rates.
-•	Recommendation:
+## Insight 1: Health Insurance Coverage
+### •	Data: 
+58.8% insured; 41.2% uninsured.
+### •	Metric: 
+Insurance coverage correlates with income and employment status.
+### •	Observation: 
+Low-income and unemployed groups have significantly lower coverage rates.
+### •	Recommendation:
 o	Introduce employer-sponsored insurance initiatives.
 o	Expand public health schemes targeting low-income populations.
 Visualization: Insurance Coverage Proportion
 ![image](https://github.com/user-attachments/assets/47abce5c-bee7-4d47-9047-7da7920f1b7d)
 
-
 	 
-Insight 2: Routine Health Checkups
-•	Data:
+## Insight 2: Routine Health Checkups
+### •	Data:
 o	29.1% of individuals participate in routine checkups.
 o	63.3% participation among older adults (60+ years).
 o	52.6% participation among high-income earners.
-•	Metric: Higher engagement is observed among older adults and high-income groups.
-•	Observation: Younger individuals and low-income groups lack engagement in routine preventive care.
-•	Recommendation:
+### •	Metric: 
+Higher engagement is observed among older adults and high-income groups.
+### •	Observation: 
+Younger individuals and low-income groups lack engagement in routine preventive care.
+### •	Recommendation:
 o	Launch awareness campaigns targeting younger populations.
 o	Incentivize routine checkups for low-income groups through subsidized healthcare.
 Visualization: Routine Checkups by Age, Gender, and Income
-![image](https://github.com/user-attachments/assets/3aa8419e-8dfe-4146-b2b3-61e57303fd3c)
 
-![image](https://github.com/user-attachments/assets/2177c578-ab39-494e-af7d-13337fabfdc9)
-
-![image](https://github.com/user-attachments/assets/05142342-2dba-4219-99e6-803166f38c3d)
+![image](https://github.com/user-attachments/assets/df435f9c-7e48-431d-a9be-67d6ee69530d)
+![image](https://github.com/user-attachments/assets/a71ab0d1-b926-4b49-b4c5-f651d0e12456)
+![image](https://github.com/user-attachments/assets/2a50e1c1-20f3-4f93-ac9f-c942872c2e36)
 
 	 
-Insight 3: Patterns in Checkup Intervals
-•	Data:
+## Insight 3: Patterns in Checkup Intervals
+### •	Data:
 o	94.0% do not engage in routine checkups.
 o	3.9% report annual checkups.
-•	Metric: Preventive care engagement remains low across all groups.
-•	Observation: Most individuals either do not engage or prefer annual checkups.
-•	Recommendation:
+### •	Metric: 
+Preventive care engagement remains low across all groups.
+### •	Observation: 
+Most individuals either do not engage or prefer annual checkups.
+### •	Recommendation:
 o	Promote annual checkups as a standard practice.
 o	Collaborate with healthcare providers to offer incentives for regular participation.
 Visualization: Checkup Interval Patterns
-![image](https://github.com/user-attachments/assets/d682c1e4-bc49-4edc-a5ac-3cf3eb34fbe8)
+![image](https://github.com/user-attachments/assets/2e6f065b-0f3f-4667-a241-c3e3fb092176)
+
  
 
-5.	Recommendations
+# 5.	Recommendations
 ________________________________________
-Increase Awareness
+## Increase Awareness
 •	Develop targeted campaigns emphasizing the importance of preventive healthcare.
 •	Focus on younger demographics and low-income populations.
-Improve Accessibility
+## Improve Accessibility
 •	Offer free or subsidized routine checkups through community programs.
 •	Partner with healthcare providers to enhance availability of preventive services.
-Expand Insurance Coverage
+## Expand Insurance Coverage
 •	Advocate for employer-sponsored insurance and government-subsidized plans.
 •	Simplify enrollment processes to increase accessibility.
 
-6.	Communication Strategy
+# 6.	Communication Strategy
 ________________________________________
-To Policymakers:
+## To Policymakers:
 •	Propose subsidies for routine checkups and insurance expansion programs.
-To Employers:
+## To Employers:
 •	Highlight the productivity benefits of employee health programs.
-To Healthcare Providers:
+## To Healthcare Providers:
 •	Develop community outreach programs promoting routine health checkups.
 
-7.	Caveats and Assumptions
+# 7.	Caveats and Assumptions
 ________________________________________
-1.	Data Limitations: The dataset may not represent all population groups equally.
-2.	Self-Reported Bias: Routine checkup and income data may contain inaccuracies.
-3.	Temporal Context: Results reflect a specific period and may not capture recent trends.
-4.	Unmeasured Variables: Factors like regional healthcare access and cultural norms are not included.
+## 1.	Data Limitations: 
+The dataset may not represent all population groups equally.
+## 2.	Self-Reported Bias: 
+Routine checkup and income data may contain inaccuracies.
+## 3.	Temporal Context: 
+Results reflect a specific period and may not capture recent trends.
+## 4.	Unmeasured Variables: 
+Factors like regional healthcare access and cultural norms are not included.
