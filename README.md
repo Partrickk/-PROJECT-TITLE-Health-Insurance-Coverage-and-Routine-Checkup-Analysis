@@ -1,16 +1,16 @@
-PROJECT TITLE: HEALTH INSURANCE COVERAGE AND ROUTINE CHECKUP ANALYSIS
+# PROJECT TITLE: HEALTH INSURANCE COVERAGE AND ROUTINE CHECKUP ANALYSIS
 
-1.	Project Background and Overview
+# 1.	Project Background and Overview
 Routine health checkups and health insurance coverage are critical indicators of preventive healthcare. This analysis tracks key metrics such as insurance coverage rates, routine checkup participation, and checkup intervals to identify trends and disparities, aiming to guide public health strategies toward improving access and equity. This analysis examines these aspects to identify trends and disparities, aiming to guide public health strategies toward improving access and equity.
-Dataset Overview:
+## Dataset Overview:
 •	Total Records Analyzed: 6,158 entries.
 •	Key Variables: Demographics, socioeconomic status, health insurance coverage, and routine checkup intervals.
-Objectives:
+## Objectives:
 1.	Quantify the proportion of individuals with health insurance and routine checkups.
 2.	Analyze routine checkup behavior across demographic and socioeconomic groups.
 3.	Identify patterns in the frequency of routine health checkups.
 
-2.	Executive Summary
+# 2.	Executive Summary
 ________________________________________
 Key Findings
 Insurance Coverage:
@@ -51,7 +51,8 @@ Insight 1: Health Insurance Coverage
 o	Introduce employer-sponsored insurance initiatives.
 o	Expand public health schemes targeting low-income populations.
 Visualization: Insurance Coverage Proportion
-![image](https://github.com/user-attachments/assets/c4a6b3fe-70e7-4bbd-b598-407b9ead149d)
+![image](https://github.com/user-attachments/assets/47abce5c-bee7-4d47-9047-7da7920f1b7d)
+
 
 	 
 Insight 2: Routine Health Checkups
